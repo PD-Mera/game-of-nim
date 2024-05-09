@@ -1,5 +1,7 @@
 # Master Minimax Algorithm with Game of Nim 
 
+![](./assets/simple.png)
+
 ## How to run
 
 Just specify game you want to play and run
