@@ -1,6 +1,6 @@
 # Master Minimax Algorithm with Game of Nim 
 
-![](./assets/simple.png)
+![](./assets/minimax_nim_tree.png)
 
 ## How to run
 
